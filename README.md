@@ -45,7 +45,6 @@ This project is part of the **AI & Machine Learning Track** at **TechMaster Acad
 
 These are the core skills every later phase — from data analysis to AI application development — will build on.
 
-> ⚠️ **Note:** This is an evolving learning project, not a finished production system. The current version covers the core requirements, but the codebase, structure, and feature set are expected to keep changing.
 
 ---
 
