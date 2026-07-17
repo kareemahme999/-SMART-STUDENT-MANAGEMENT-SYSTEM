@@ -78,8 +78,6 @@ These are the core skills every later phase — from data analysis to AI applica
 <img width="955" height="617" alt="screenshot" src="https://github.com/user-attachments/assets/1d718d4a-28f0-410f-af41-2fb1a8cbdf9a" />
 
 
-> **Note:** Make sure `screenshot.png` is placed in the root of the repository (or update the path above if you place it inside an `assets/` folder).
-
 ---
 
 ## 🛠️ Tech Stack
