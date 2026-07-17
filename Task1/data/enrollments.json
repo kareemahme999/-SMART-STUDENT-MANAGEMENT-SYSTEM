@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": 20240427,
+        "course_id": "CS101"
+    },
+    {
+        "student_id": 20240427,
+        "course_id": "CS102"
+    },
+    {
+        "student_id": 20240428,
+        "course_id": "AI101"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "course_id": "CS101",
+        "name": "Programming",
+        "hours": 3
+    },
+    {
+        "course_id": "CS102",
+        "name": "Data Structures",
+        "hours": 3
+    },
+    {
+        "course_id": "AI101",
+        "name": "Artificial Intelligence",
+        "hours": 4
+    }
+]

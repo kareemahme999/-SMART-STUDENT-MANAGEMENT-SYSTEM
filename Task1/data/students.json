@@ -1,0 +1,24 @@
+[
+     {
+          "name": "Kareem",
+          "age": 20,
+          "student_id": 20240427,
+          "department": "CS",
+          "GPA": 3.1
+     },
+     {
+          "name": "Ahmed",
+          "age": 21,
+          "student_id": 20240428,
+          "department": "AI",
+          "GPA": 3.7
+     },
+     {
+          "name": "Sara",
+          "age": 20,
+          "student_id": 20240429,
+          "department": "IS",
+          "GPA": 3.5
+     }
+     
+]
